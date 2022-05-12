@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
         items: const [
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
-            label: 'Employee',
+            label: 'Employee List',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person),
